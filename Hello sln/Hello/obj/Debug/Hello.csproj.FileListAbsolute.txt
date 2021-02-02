@@ -1,0 +1,6 @@
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\bin\Debug\Hello.exe.config
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\bin\Debug\Hello.exe
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\bin\Debug\Hello.pdb
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\obj\Debug\Hello.exe
+H:\Semester 6\OOP2\Problem\Hello sln\Hello\obj\Debug\Hello.pdb
