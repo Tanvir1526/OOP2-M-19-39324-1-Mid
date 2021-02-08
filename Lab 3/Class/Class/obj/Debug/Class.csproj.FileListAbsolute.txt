@@ -1,0 +1,6 @@
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\bin\Debug\Class.exe.config
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\obj\Debug\Class.csprojResolveAssemblyReference.cache
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\bin\Debug\Class.exe
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\bin\Debug\Class.pdb
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\obj\Debug\Class.exe
+H:\Semester 6\OOP2\Problem\Lab 3\Class\Class\obj\Debug\Class.pdb
