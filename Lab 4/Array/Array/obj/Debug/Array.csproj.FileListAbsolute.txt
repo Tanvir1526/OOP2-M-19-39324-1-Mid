@@ -1,0 +1,2 @@
+H:\Semester 6\OOP2\Problem\Lab 4\Array\Array\bin\Debug\Array.exe.config
+H:\Semester 6\OOP2\Problem\Lab 4\Array\Array\obj\Debug\Array.csprojResolveAssemblyReference.cache
