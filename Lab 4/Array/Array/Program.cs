@@ -57,10 +57,31 @@ namespace Array
             {
                 Console.Write(" " + a2[i]);
             }
+            Console.WriteLine("\n");
             //************Duplicate element**************** 
+            for ( i = 0; i < n; i++)
+            {
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (a[j] == a[i])
+                        Console.WriteLine("Number {0} has a duplication.", a[j]);
+                }
+            }
+            Console.WriteLine("\n");
 
-          
-
+            //***************Uniqe element*****************
+            for (i = 0; i < n; i++)
+            {
+                int unique = 0;
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (a[i] == a[j])
+                    { unique = 1; break; }
+                    
+                }
+                if (unique == 0)
+                    Console.WriteLine("Number {0} is unique.", a[i]);
+            }
         }
     }
 }
