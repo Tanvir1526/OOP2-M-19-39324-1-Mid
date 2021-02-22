@@ -38,10 +38,11 @@ namespace Account
         {
             this.name = name;
             this.accNo = accNo;
+            this.balance = balance;
             Console.WriteLine("Perametere Account");
         }
        
-        void Transfer(int ammount,Account acc)
+        public void Transfer(int ammount,Account acc)
         {
             if(balance>ammount)
             {
@@ -55,14 +56,16 @@ namespace Account
         }
         public void ShowInfo()
         {
-            Console.WriteLine("********Show Account *********");
+            Console.WriteLine("********Show Info *********");
             Console.WriteLine("Account Name :" + name);
             Console.WriteLine("Account No :" + accNo);
-            Console.WriteLine("Balance :" + accNo);
+            Console.WriteLine("Balance :" + balance);
 
 
 
         }
 
+
+        
     }
 }
